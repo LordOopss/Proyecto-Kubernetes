@@ -105,8 +105,8 @@ de forma predecible con N — igual que `fib` o `matriz`. Se tocaron tres archiv
 
 ## Video de demo
 
-[Video de demo en YouTube](AGREGAR-LINK-AQUI) — pendiente.
+[Video YouTube](https://youtu.be/Hr5MLS8ONH4).
 
 ## Integrantes
 
-- Agregar aquí los nombres del grupo.
+- Juan Manuel Vallejo Pizarro
