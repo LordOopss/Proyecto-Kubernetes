@@ -46,7 +46,7 @@ stdout.
 | `ordenar` | genera N enteros aleatorios, los ordena y verifica el resultado | cantidad de elementos |
 | `fib` | calcula fib(N) recursivo sin memoización — satura una CPU | N |
 | `matriz` | multiplica dos matrices N×N con triple bucle | dimensión |
-| `primos` *(agregada por el grupo, solo en Python)* | cuenta los primos menores que N por división de tanteo | límite del conteo |
+| `primos` *(agregada, solo en Python)* | cuenta los primos menores que N por división de tanteo | límite del conteo |
 
 La complejidad (`baja` / `media` / `alta`) fija dos cosas al mismo tiempo: cuánta CPU y
 memoria le pide el `Job` a Kubernetes (`requests`/`limits`), y qué tan grande es N. Por
